@@ -1,16 +1,32 @@
-### Hi there 👋
+
+<p align="center"> <a href="https://twitter.com/SahilAl14403565" target="blank"><img src="https://img.shields.io/twitter/follow/SahilAl14403565?logo=twitter&style=for-the-badge" alt="Sahilali" /></a> </p>
+
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AvneeshSY&bg_color=0D1117)   -->
+
 
 <!--
-**AvneeshSY/AvneeshSY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sahil-ali-a86423206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-ali-a86423206" height="30" width="40" /></a>
+<a href="https://instagram.com/captain_sahil_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="captain_sahil_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/enigma shorts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="enigma shorts" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AvneeshSY&show_icons=true&locale=en&layout=compact" alt="AvneeshSY" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AvneeshSY&show_icons=true&locale=en" alt="AvneeshSY" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AvneeshSY&" alt="AvneeshSY" /></p>
+
+
+
+ [GitHub stats](https://github-readme-stats.vercel.app/api?username=AvneeshSY&show_icons=true&count_private=true&bg_color=0D1117)  
+ ![GitHub metrics](https://metrics.lecoq.io/AvneeshSY) -->
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AvneeshSY&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)  
+
+![Profile views](https://gpvc.arturio.dev/AvneeshSY)
+
