@@ -1,5 +1,5 @@
 
-<p align="center"> <a href="https://twitter.com/SahilAl14403565" target="blank"><img src="https://img.shields.io/twitter/follow/SahilAl14403565?logo=twitter&style=for-the-badge" alt="Sahilali" /></a> </p>
+<p align="center"> <a href="https://twitter.com/Avneesh52355757" target="blank"><img src="https://img.shields.io/twitter/follow/Avneesh52355757?logo=twitter&style=for-the-badge" alt="Avneesh52355757" /></a> </p>
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AvneeshSY&bg_color=0D1117)   -->
 
